@@ -41,13 +41,21 @@ Fine-tuned a pretrained MobileNetV2 convolutional neural network on 9,662 labele
 
 ## Project Structure
 Coral_Watch/
+
 ├── notebooks/
+
 │   ├── session2_classic_ml.ipynb      # Classic ML workflow
+
 │   ├── session5_data_exploration.ipynb # Dataset exploration
+
 │   └── session7_training.ipynb        # Model training & evaluation
+
 ├── models/          # Trained model weights (see below)
+
 ├── app/
+
 │   └── app.py       # Streamlit web app
+
 └── data/            # Dataset (not included)
 
 ## Setup
